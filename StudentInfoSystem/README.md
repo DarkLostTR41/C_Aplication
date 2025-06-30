@@ -2,7 +2,7 @@
                        
                        
   libraries and definitions used
-![image](https://github.com/user-attachments/assets/8fd94fee-cc15-4ae0-92e9-6e4280902f51)
+![image](https://github.com/user-attachments/assets/c38b3f6e-8448-4654-b4ee-75683736e504)
 
   Defining the array within the main function and determining the number of data rows to be entered
 ![image](https://github.com/user-attachments/assets/149ac377-05a2-4af8-a768-e33a55f39f51)
