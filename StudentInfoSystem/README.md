@@ -1,4 +1,4 @@
-                       <h1> Student Information System Example </h1>
+                       <h1> Student Information System Example
                        
 <br>libraries and definitions used
 
