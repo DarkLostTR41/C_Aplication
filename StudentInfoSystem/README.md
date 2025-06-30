@@ -12,3 +12,9 @@
 
   Printing the file of received data
 ![image](https://github.com/user-attachments/assets/1b578565-56c3-4b02-b4e7-0d2bc7f3daa8)
+
+  querying the data in the file 
+![image](https://github.com/user-attachments/assets/cd5db35d-a3ec-42eb-a1d1-8a477b73d256)
+
+  Closing the file
+![image](https://github.com/user-attachments/assets/4ab3d672-074a-47b1-8725-af40b797c375)
